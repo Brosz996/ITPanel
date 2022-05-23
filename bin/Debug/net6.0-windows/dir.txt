@@ -1,0 +1,17 @@
+ Volume in drive C is SSD
+ Volume Serial Number is B072-3052
+
+ Directory of C:\Users\Bence\C#Projects\ITPanel\ITPanel\bin\Debug\net6.0-windows
+
+2022. 05. 20.  20:14    <DIR>          .
+2022. 05. 20.  14:39    <DIR>          ..
+2022. 05. 20.  20:13             1ÿ109 dd.txt
+2022. 05. 20.  20:14                 0 dir.txt
+2022. 05. 20.  14:47               413 ITPanel.deps.json
+2022. 05. 20.  20:13            11ÿ776 ITPanel.dll
+2022. 05. 20.  20:13           149ÿ504 ITPanel.exe
+2022. 05. 20.  20:13            13ÿ800 ITPanel.pdb
+2022. 05. 20.  14:47               266 ITPanel.runtimeconfig.json
+2022. 05. 20.  18:59            63ÿ338 richTextBox1.Text
+               8 File(s)        240ÿ206 bytes
+               2 Dir(s)  63ÿ225ÿ716ÿ736 bytes free

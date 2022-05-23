@@ -1,0 +1,2033 @@
+
+Windows IP Configuration
+
+    rules.quantcount.com
+    ----------------------------------------
+    Record Name . . . . . : rules.quantcount.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 336
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : d2fashanjl7d9f.cloudfront.net
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 336
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2600:9000:2050:e400:6:44e3:f8c0:93a1
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 336
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2600:9000:2050:c00:6:44e3:f8c0:93a1
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 336
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2600:9000:2050:2400:6:44e3:f8c0:93a1
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 336
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2600:9000:2050:400:6:44e3:f8c0:93a1
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 336
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2600:9000:2050:4000:6:44e3:f8c0:93a1
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 336
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2600:9000:2050:a00:6:44e3:f8c0:93a1
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 336
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2600:9000:2050:ac00:6:44e3:f8c0:93a1
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 336
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2600:9000:2050:da00:6:44e3:f8c0:93a1
+
+
+    rules.quantcount.com
+    ----------------------------------------
+    Record Name . . . . . : rules.quantcount.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 476
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : d2fashanjl7d9f.cloudfront.net
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 476
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.84.106.67
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 476
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.84.106.78
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 476
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.84.106.23
+
+
+    Record Name . . . . . : d2fashanjl7d9f.cloudfront.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 476
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.84.106.39
+
+
+    stackoverflow.com
+    ----------------------------------------
+    Record Name . . . . . : stackoverflow.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 60
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.129.69
+
+
+    Record Name . . . . . : stackoverflow.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 60
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.193.69
+
+
+    Record Name . . . . . : stackoverflow.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 60
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.1.69
+
+
+    Record Name . . . . . : stackoverflow.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 60
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.65.69
+
+
+    fa000000064.resources.office.net
+    ----------------------------------------
+    Record Name . . . . . : fa000000064.resources.office.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 289
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : resources.office.net.edgekey.net
+
+
+    Record Name . . . . . : resources.office.net.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 289
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e11271.dscg.akamaiedge.net
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 289
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:d200:3a4::2c07
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 289
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:d200:380::2c07
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 289
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:d200:38b::2c07
+
+
+    fa000000064.resources.office.net
+    ----------------------------------------
+    Record Name . . . . . : fa000000064.resources.office.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 163
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : resources.office.net.edgekey.net
+
+
+    Record Name . . . . . : resources.office.net.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 163
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e11271.dscg.akamaiedge.net
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 163
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.75.89.209
+
+
+    www.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : www.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www.microsoft.com-c-3.edgekey.net
+
+
+    Record Name . . . . . : www.microsoft.com-c-3.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net
+
+
+    Record Name . . . . . : www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e13678.dscb.akamaiedge.net
+
+
+    Record Name . . . . . : e13678.dscb.akamaiedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 92.123.37.9
+
+
+    pti.store.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : pti.store.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 112
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : sfd-production.azurefd.net
+
+
+    Record Name . . . . . : sfd-production.azurefd.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 112
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : global-geo-afdthirdparty-unicast.trafficmanager.net
+
+
+    Record Name . . . . . : global-geo-afdthirdparty-unicast.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 112
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : tlv30r3a.msedge.net
+
+
+    Record Name . . . . . : tlv30r3a.msedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 112
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:1ec:27::cafe:1834
+
+
+    pti.store.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : pti.store.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 112
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : sfd-production.azurefd.net
+
+
+    Record Name . . . . . : sfd-production.azurefd.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 112
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : global-geo-afdthirdparty-unicast.trafficmanager.net
+
+
+    Record Name . . . . . : global-geo-afdthirdparty-unicast.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 112
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : tlv30r3a.msedge.net
+
+
+    Record Name . . . . . : tlv30r3a.msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 112
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.90.65.2
+
+
+    officeclient.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : officeclient.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 127
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : config.officeapps.live.com
+
+
+    Record Name . . . . . : config.officeapps.live.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 127
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : prod.configsvc1.live.com.akadns.net
+
+
+    Record Name . . . . . : prod.configsvc1.live.com.akadns.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 127
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : europe.configsvc1.live.com.akadns.net
+
+
+    Record Name . . . . . : europe.configsvc1.live.com.akadns.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 127
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.109.76.68
+
+
+    content-autofill.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : content-autofill.googleapis.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 150
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400d:805::200a
+
+
+    content-autofill.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : content-autofill.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 140
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.39.10
+
+
+    secure.quantserve.com
+    ----------------------------------------
+    Record Name . . . . . : secure.quantserve.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : 2kpixel.quantserve.com
+
+
+    Record Name . . . . . : 2kpixel.quantserve.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : global.px.quantserve.com
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:8c6e:cf2c:8d6:9fb5
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:f916:5049:f87f:108e
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:5a23:9c4e:e774:96c1
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:3175:5196:e3fd:8c1d
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:51e4:db4b:4436:b305
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:36a9:ecb:e518:b308
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:fcb8:22d2:d390:5f1b
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:ee05:6a01:4b41:8c89
+
+
+    www.googletagmanager.com
+    ----------------------------------------
+    Record Name . . . . . : www.googletagmanager.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-googletagmanager.l.google.com
+
+
+    Record Name . . . . . : www-googletagmanager.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 337
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400d:804::2008
+
+
+    www.googletagmanager.com
+    ----------------------------------------
+    Record Name . . . . . : www.googletagmanager.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-googletagmanager.l.google.com
+
+
+    Record Name . . . . . : www-googletagmanager.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.39.40
+
+
+    freyr.futurecdn.net
+    ----------------------------------------
+    Record Name . . . . . : freyr.futurecdn.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 372
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : y3p7g7u2.stackpathcdn.com
+
+
+    Record Name . . . . . : y3p7g7u2.stackpathcdn.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 372
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.139.128.11
+
+
+    x1.c.lencr.org
+    ----------------------------------------
+    Record Name . . . . . : x1.c.lencr.org
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 23
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : crl.root-x1.letsencrypt.org.edgekey.net
+
+
+    Record Name . . . . . : crl.root-x1.letsencrypt.org.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 23
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e8652.dscx.akamaiedge.net
+
+
+    Record Name . . . . . : e8652.dscx.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 23
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:dc:18e::21cc
+
+
+    Record Name . . . . . : e8652.dscx.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 23
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:dc:188::21cc
+
+
+    x1.c.lencr.org
+    ----------------------------------------
+    Record Name . . . . . : x1.c.lencr.org
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : crl.root-x1.letsencrypt.org.edgekey.net
+
+
+    Record Name . . . . . : crl.root-x1.letsencrypt.org.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e8652.dscx.akamaiedge.net
+
+
+    Record Name . . . . . : e8652.dscx.akamaiedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.96.143.115
+
+
+    pixel.quantserve.com
+    ----------------------------------------
+    Record Name . . . . . : pixel.quantserve.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 189
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : global.px.quantserve.com
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 189
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:f916:5049:f87f:108e
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 189
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:5a23:9c4e:e774:96c1
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 189
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:3175:5196:e3fd:8c1d
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 189
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:51e4:db4b:4436:b305
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 189
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:36a9:ecb:e518:b308
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 189
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:fcb8:22d2:d390:5f1b
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 189
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:ee05:6a01:4b41:8c89
+
+
+    Record Name . . . . . : global.px.quantserve.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 189
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:116:800d:21:8c6e:cf2c:8d6:9fb5
+
+
+    rqmetrixb.info
+    ----------------------------------------
+    Record Name . . . . . : rqmetrixb.info
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 801
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.225.17.239
+
+
+    beacons.gcp.gvt2.com
+    ----------------------------------------
+    Record Name . . . . . : beacons.gcp.gvt2.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : beacons-handoff.gcp.gvt2.com
+
+
+    Record Name . . . . . : beacons-handoff.gcp.gvt2.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400d:805::2003
+
+
+    beacons.gcp.gvt2.com
+    ----------------------------------------
+    Record Name . . . . . : beacons.gcp.gvt2.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : beacons-handoff.gcp.gvt2.com
+
+
+    Record Name . . . . . : beacons-handoff.gcp.gvt2.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.20.3
+
+
+    static-akam.licdn.com
+    ----------------------------------------
+    Record Name . . . . . : static-akam.licdn.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 29
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : od.linkedin.edgesuite.net
+
+
+    Record Name . . . . . : od.linkedin.edgesuite.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 29
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a1916.dscg2.akamai.net
+
+
+    Record Name . . . . . : a1916.dscg2.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 29
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 91.83.14.201
+
+
+    Record Name . . . . . : a1916.dscg2.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 29
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 91.83.14.203
+
+
+    fa000000033.resources.office.net
+    ----------------------------------------
+    Record Name . . . . . : fa000000033.resources.office.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 289
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : resources.office.net.edgekey.net
+
+
+    Record Name . . . . . : resources.office.net.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 289
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e11271.dscg.akamaiedge.net
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 289
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:d200:380::2c07
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 289
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:d200:38b::2c07
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 289
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:d200:3a4::2c07
+
+
+    fa000000033.resources.office.net
+    ----------------------------------------
+    Record Name . . . . . : fa000000033.resources.office.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 163
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : resources.office.net.edgekey.net
+
+
+    Record Name . . . . . : resources.office.net.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 163
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e11271.dscg.akamaiedge.net
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 163
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.75.89.209
+
+
+    fonts.gstatic.com
+    ----------------------------------------
+    Record Name . . . . . : fonts.gstatic.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 136
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : gstaticadssl.l.google.com
+
+
+    Record Name . . . . . : gstaticadssl.l.google.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 136
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400d:80c::2003
+
+
+    fonts.gstatic.com
+    ----------------------------------------
+    Record Name . . . . . : fonts.gstatic.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 136
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : gstaticadssl.l.google.com
+
+
+    Record Name . . . . . : gstaticadssl.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 136
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.39.3
+
+
+    www.gravatar.com
+    ----------------------------------------
+    Record Name . . . . . : www.gravatar.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 164
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a04:fa87:fffe::c000:4902
+
+
+    ocsp.usertrust.com
+    ----------------------------------------
+    Record Name . . . . . : ocsp.usertrust.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 402
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+
+
+    Record Name . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 402
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:4400::6812:2044
+
+
+    Record Name . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 402
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:4400::ac40:9bbc
+
+
+    ocsp.usertrust.com
+    ----------------------------------------
+    Record Name . . . . . : ocsp.usertrust.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 345
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+
+
+    Record Name . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 345
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.64.155.188
+
+
+    Record Name . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 345
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.18.32.68
+
+
+    improving.duckduckgo.com
+    ----------------------------------------
+    Record Name . . . . . : improving.duckduckgo.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 81
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : duckduckgo.com
+
+
+    Record Name . . . . . : duckduckgo.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 81
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.114.177.156
+
+
+    ecs.office.com
+    ----------------------------------------
+    Record Name . . . . . : ecs.office.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ecs.office.trafficmanager.net
+
+
+    Record Name . . . . . : ecs.office.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : s-0005-office.config.skype.com
+
+
+    Record Name . . . . . : s-0005-office.config.skype.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ecs-office.s-0005.s-msedge.net
+
+
+    Record Name . . . . . : ecs-office.s-0005.s-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : s-0005.s-msedge.net
+
+
+    Record Name . . . . . : s-0005.s-msedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 172
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:1ec:42::132
+
+
+    ecs.office.com
+    ----------------------------------------
+    Record Name . . . . . : ecs.office.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 208
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ecs.office.trafficmanager.net
+
+
+    Record Name . . . . . : ecs.office.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 208
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : s-0005-office.config.skype.com
+
+
+    Record Name . . . . . : s-0005-office.config.skype.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 208
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ecs-office.s-0005.s-msedge.net
+
+
+    Record Name . . . . . : ecs-office.s-0005.s-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 208
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : s-0005.s-msedge.net
+
+
+    Record Name . . . . . : s-0005.s-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 208
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.113.194.132
+
+
+    update.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : update.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.39.35
+
+
+    ocsp.sectigo.com
+    ----------------------------------------
+    Record Name . . . . . : ocsp.sectigo.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 565
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+
+
+    Record Name . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 565
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:4400::6812:2044
+
+
+    Record Name . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 565
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700:4400::ac40:9bbc
+
+
+    ocsp.sectigo.com
+    ----------------------------------------
+    Record Name . . . . . : ocsp.sectigo.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 346
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+
+
+    Record Name . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 346
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.18.32.68
+
+
+    Record Name . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 346
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.64.155.188
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Record Name . . . . . : www.google-analytics.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-google-analytics.l.google.com
+
+
+    Record Name . . . . . : www-google-analytics.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.39.46
+
+
+    edge.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : edge.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : edge-microsoft-com.a-0016.a-msedge.net
+
+
+    Record Name . . . . . : edge-microsoft-com.a-0016.a-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a-0016.a-msedge.net
+
+
+    Record Name . . . . . : a-0016.a-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 204.79.197.219
+
+
+    go.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : go.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 47
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : go.microsoft.com.edgekey.net
+
+
+    Record Name . . . . . : go.microsoft.com.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 47
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e11290.dspg.akamaiedge.net
+
+
+    Record Name . . . . . : e11290.dspg.akamaiedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 47
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 88.221.62.148
+
+
+    mcdp-nydc1.outbrain.com
+    ----------------------------------------
+    Record Name . . . . . : mcdp-nydc1.outbrain.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : nydc1.outbrain.org
+
+
+    Record Name . . . . . : nydc1.outbrain.org
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 3
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 64.202.112.63
+
+
+    cp501.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : cp501.prod.do.dsp.mp.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 197
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cp501.prod.do.dsp.mp.microsoft.com.edgekey.net
+
+
+    Record Name . . . . . : cp501.prod.do.dsp.mp.microsoft.com.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 197
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e10370.g.akamaiedge.net
+
+
+    Record Name . . . . . : e10370.g.akamaiedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 197
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 95.100.68.145
+
+
+    6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
+    ----------------------------------------
+    Record Name . . . . . : 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 251
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6812:551
+
+
+    Record Name . . . . . : 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 251
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6812:451
+
+
+    www.bing.com
+    ----------------------------------------
+    Record Name . . . . . : www.bing.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a-0001.a-afdentry.net.trafficmanager.net
+
+
+    Record Name . . . . . : a-0001.a-afdentry.net.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-bing-com.dual-a-0001.a-msedge.net
+
+
+    Record Name . . . . . : www-bing-com.dual-a-0001.a-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : dual-a-0001.a-msedge.net
+
+
+    Record Name . . . . . : dual-a-0001.a-msedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:1ec:c11::200
+
+
+    www.bing.com
+    ----------------------------------------
+    Record Name . . . . . : www.bing.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a-0001.a-afdentry.net.trafficmanager.net
+
+
+    Record Name . . . . . : a-0001.a-afdentry.net.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www-bing-com.dual-a-0001.a-msedge.net
+
+
+    Record Name . . . . . : www-bing-com.dual-a-0001.a-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : dual-a-0001.a-msedge.net
+
+
+    Record Name . . . . . : dual-a-0001.a-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 204.79.197.200
+
+
+    Record Name . . . . . : dual-a-0001.a-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 13.107.21.200
+
+
+    t-ring.msedge.net
+    ----------------------------------------
+    Record Name . . . . . : t-ring.msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 27
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : t-ring.t-9999.t-msedge.net
+
+
+    Record Name . . . . . : t-ring.t-9999.t-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 27
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : t-9999.t-msedge.net
+
+
+    Record Name . . . . . : t-9999.t-msedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 27
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:1ec:bdf::254
+
+
+    t-ring.msedge.net
+    ----------------------------------------
+    Record Name . . . . . : t-ring.msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 27
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : t-ring.t-9999.t-msedge.net
+
+
+    Record Name . . . . . : t-ring.t-9999.t-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 27
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : t-9999.t-msedge.net
+
+
+    Record Name . . . . . : t-9999.t-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 27
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 13.107.246.254
+
+
+    ajax.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : ajax.googleapis.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 80
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a00:1450:400d:805::200a
+
+
+    ajax.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : ajax.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 162
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.201.202
+
+
+    forums.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : forums.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 241
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : forums.microsoft.akadns.net
+
+
+    Record Name . . . . . : forums.microsoft.akadns.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 241
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 65.52.103.99
+
+
+    register1.lifesavvy.com
+    ----------------------------------------
+    Record Name . . . . . : register1.lifesavvy.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 569
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.21.5.187
+
+
+    Record Name . . . . . : register1.lifesavvy.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 569
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.170.103.36
+
+
+    selfishsnake.com
+    ----------------------------------------
+    Record Name . . . . . : selfishsnake.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 210
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.201.103.212
+
+
+    fp.msedge.net
+    ----------------------------------------
+    Record Name . . . . . : fp.msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : 1.perf.msedge.net
+
+
+    Record Name . . . . . : 1.perf.msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a-0019.a-msedge.net
+
+
+    Record Name . . . . . : a-0019.a-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a-0019.a.dns.azurefd.net
+
+
+    Record Name . . . . . : a-0019.a.dns.azurefd.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a-0019.standard.a-msedge.net
+
+
+    Record Name . . . . . : a-0019.standard.a-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 14
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 204.79.197.222
+
+
+    duckduckgo.com
+    ----------------------------------------
+    Record Name . . . . . : duckduckgo.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 81
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.114.177.156
+
+
+    beacons2.gvt2.com
+    ----------------------------------------
+    Record Name . . . . . : beacons2.gvt2.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 140
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.31.131
+
+
+    fonts.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : fonts.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 138
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.39.10
+
+
+    rqmetrixc.info
+    ----------------------------------------
+    Record Name . . . . . : rqmetrixc.info
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 336
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 185.225.17.243
+
+
+    s-ring.msedge.net
+    ----------------------------------------
+    Record Name . . . . . : s-ring.msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 378
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : s-ring.s-9999.s-msedge.net
+
+
+    Record Name . . . . . : s-ring.s-9999.s-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 378
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : s-9999.s-msedge.net
+
+
+    Record Name . . . . . : s-9999.s-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 378
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 13.107.3.254
+
+
+    fe2cr.update.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : fe2cr.update.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : fe2cr.update.msft.com.trafficmanager.net
+
+
+    Record Name . . . . . : fe2cr.update.msft.com.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.238.248.0
+
+
+    Record Name . . . . . : fe2cr.update.msft.com.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.83.81.160
+
+
+    hystericalcloth.com
+    ----------------------------------------
+    Record Name . . . . . : hystericalcloth.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 399
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 35.190.74.222
+
+
+    www.howtogeek.com
+    ----------------------------------------
+    Record Name . . . . . : www.howtogeek.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 54
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : i2.shared.global.fastly.net
+
+
+    Record Name . . . . . : i2.shared.global.fastly.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 54
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.114.49
+
+
+    graph.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : graph.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 360
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ags.privatelink.msidentity.com
+
+
+    Record Name . . . . . : ags.privatelink.msidentity.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 360
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www.tm.prd.ags.trafficmanager.net
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 360
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.126.32.101
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 360
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.190.160.25
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 360
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.190.160.26
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 360
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.126.32.161
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 360
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.126.32.99
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 360
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.126.32.160
+
+
+    checkappexec.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : checkappexec.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 143
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wd-prod-ss.trafficmanager.net
+
+
+    Record Name . . . . . : wd-prod-ss.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 143
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wd-prod-ss-eu-west-1-fe.westeurope.cloudapp.azure.com
+
+
+    Record Name . . . . . : wd-prod-ss-eu-west-1-fe.westeurope.cloudapp.azure.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 143
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.73.130.64
+
+
+    external-content.duckduckgo.com
+    ----------------------------------------
+    Record Name . . . . . : external-content.duckduckgo.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 235
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.114.178.124
+
+
+    l-ring-fallback.msedge.net
+    ----------------------------------------
+    Record Name . . . . . : l-ring-fallback.msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 111
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : l-9999.l-dc-msedge.net
+
+
+    Record Name . . . . . : l-9999.l-dc-msedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 111
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:1ec:22::254
+
+
+    l-ring-fallback.msedge.net
+    ----------------------------------------
+    Record Name . . . . . : l-ring-fallback.msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 226
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : l-9999.l-dc-msedge.net
+
+
+    Record Name . . . . . : l-9999.l-dc-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 226
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 13.107.43.254
+
+
+    clientservices.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : clientservices.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 136
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.251.39.67
+
+
+    accounts.google.com
+    ----------------------------------------
+    Record Name . . . . . : accounts.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.201.205
+
+
+    v10.events.data.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : v10.events.data.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 136
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : global.asimov.events.data.trafficmanager.net
+
+
+    Record Name . . . . . : global.asimov.events.data.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 136
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : onedscolprdeus04.eastus.cloudapp.azure.com
+
+
+    Record Name . . . . . : onedscolprdeus04.eastus.cloudapp.azure.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 136
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.168.112.67
+
+
+    au.download.windowsupdate.com
+    ----------------------------------------
+    Record Name . . . . . : au.download.windowsupdate.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 149
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wu-bg-shim.trafficmanager.net
+
+
+    Record Name . . . . . : wu-bg-shim.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 149
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : download.windowsupdate.com.edgesuite.net
+
+
+    Record Name . . . . . : download.windowsupdate.com.edgesuite.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 149
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a767.dspw65.akamai.net
+
+
+    Record Name . . . . . : a767.dspw65.akamai.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 149
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a01:368:1fe:703::5b53:e08
+
+
+    Record Name . . . . . : a767.dspw65.akamai.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 149
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a01:368:1fe:703::5b53:e20
+
+
+    au.download.windowsupdate.com
+    ----------------------------------------
+    Record Name . . . . . : au.download.windowsupdate.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 149
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wu-bg-shim.trafficmanager.net
+
+
+    Record Name . . . . . : wu-bg-shim.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 149
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : download.windowsupdate.com.edgesuite.net
+
+
+    Record Name . . . . . : download.windowsupdate.com.edgesuite.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 149
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a767.dspw65.akamai.net
+
+
+    Record Name . . . . . : a767.dspw65.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 149
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 91.83.14.176
+
+
+    Record Name . . . . . : a767.dspw65.akamai.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 149
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 91.83.14.170
+
+
+    nav.smartscreen.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : nav.smartscreen.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wd-prod-ss.trafficmanager.net
+
+
+    Record Name . . . . . : wd-prod-ss.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wd-prod-ss-eu-west-1-fe.westeurope.cloudapp.azure.com
+
+
+    Record Name . . . . . : wd-prod-ss-eu-west-1-fe.westeurope.cloudapp.azure.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.73.130.64
+
+
+    cdn.sstatic.net
+    ----------------------------------------
+    Record Name . . . . . : cdn.sstatic.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 224
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.129.69
+
+
+    Record Name . . . . . : cdn.sstatic.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 224
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.65.69
+
+
+    Record Name . . . . . : cdn.sstatic.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 224
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.1.69
+
+
+    Record Name . . . . . : cdn.sstatic.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 224
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 151.101.193.69
+
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Record Name . . . . . : safebrowsing.googleapis.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 142.250.180.234
+
+
+    fa000000069.resources.office.net
+    ----------------------------------------
+    Record Name . . . . . : fa000000069.resources.office.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : resources.office.net.edgekey.net
+
+
+    Record Name . . . . . : resources.office.net.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e11271.dscg.akamaiedge.net
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:d200:3a4::2c07
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:d200:380::2c07
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 288
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2a02:26f0:d200:38b::2c07
+
+
+    fa000000069.resources.office.net
+    ----------------------------------------
+    Record Name . . . . . : fa000000069.resources.office.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 162
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : resources.office.net.edgekey.net
+
+
+    Record Name . . . . . : resources.office.net.edgekey.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 162
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : e11271.dscg.akamaiedge.net
+
+
+    Record Name . . . . . : e11271.dscg.akamaiedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 162
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.75.89.209
+
+
+    login.microsoftonline.com
+    ----------------------------------------
+    Record Name . . . . . : login.microsoftonline.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ak.privatelink.msidentity.com
+
+
+    Record Name . . . . . : ak.privatelink.msidentity.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www.tm.ak.prd.aadg.trafficmanager.net
+
+
+    Record Name . . . . . : www.tm.ak.prd.aadg.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.126.32.68
+
+
+    Record Name . . . . . : www.tm.ak.prd.aadg.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.126.32.74
+
+
+    Record Name . . . . . : www.tm.ak.prd.aadg.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.126.32.140
+
+
+    Record Name . . . . . : www.tm.ak.prd.aadg.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.190.160.22
+
+
+    Record Name . . . . . : www.tm.ak.prd.aadg.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.126.32.136
+
+
+    Record Name . . . . . : www.tm.ak.prd.aadg.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.190.160.17
+
+
+    Record Name . . . . . : www.tm.ak.prd.aadg.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.126.32.76
+
+
+    Record Name . . . . . : www.tm.ak.prd.aadg.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 137
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.190.160.20
+
+

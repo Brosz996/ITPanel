@@ -1,0 +1,17 @@
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\bin\Debug\net6.0-windows\ITPanel.exe
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\bin\Debug\net6.0-windows\ITPanel.deps.json
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\bin\Debug\net6.0-windows\ITPanel.runtimeconfig.json
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\bin\Debug\net6.0-windows\ITPanel.dll
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\bin\Debug\net6.0-windows\ITPanel.pdb
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ITPanel.csproj.AssemblyReference.cache
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ITPanel.Form1.resources
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ITPanel.csproj.GenerateResource.cache
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ITPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ITPanel.AssemblyInfoInputs.cache
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ITPanel.AssemblyInfo.cs
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ITPanel.csproj.CoreCompileInputs.cache
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ITPanel.dll
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\refint\ITPanel.dll
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ITPanel.pdb
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ITPanel.genruntimeconfig.cache
+C:\Users\Bence\C#Projects\ITPanel\ITPanel\obj\Debug\net6.0-windows\ref\ITPanel.dll
