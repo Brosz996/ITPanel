@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -46,9 +47,9 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(30, 41);
+            this.button1.Location = new System.Drawing.Point(26, 36);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(133, 40);
+            this.button1.Size = new System.Drawing.Size(114, 35);
             this.button1.TabIndex = 0;
             this.button1.Text = "IPCONFIG";
             this.button1.UseVisualStyleBackColor = true;
@@ -57,9 +58,9 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button2.Location = new System.Drawing.Point(233, 85);
+            this.button2.Location = new System.Drawing.Point(200, 74);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(142, 40);
+            this.button2.Size = new System.Drawing.Size(138, 35);
             this.button2.TabIndex = 1;
             this.button2.Text = "DISPLAY DNS";
             this.button2.UseVisualStyleBackColor = true;
@@ -68,9 +69,9 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button3.Location = new System.Drawing.Point(443, 392);
+            this.button3.Location = new System.Drawing.Point(380, 340);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(153, 61);
+            this.button3.Size = new System.Drawing.Size(131, 53);
             this.button3.TabIndex = 2;
             this.button3.Text = "EXIT";
             this.button3.UseVisualStyleBackColor = true;
@@ -79,9 +80,9 @@
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button4.Location = new System.Drawing.Point(233, 41);
+            this.button4.Location = new System.Drawing.Point(200, 36);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(142, 40);
+            this.button4.Size = new System.Drawing.Size(138, 35);
             this.button4.TabIndex = 3;
             this.button4.Text = "FLUSH DNS";
             this.button4.UseVisualStyleBackColor = true;
@@ -90,9 +91,9 @@
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(169, 55);
+            this.checkBox1.Location = new System.Drawing.Point(145, 48);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(38, 19);
+            this.checkBox1.Size = new System.Drawing.Size(36, 17);
             this.checkBox1.TabIndex = 4;
             this.checkBox1.Text = "all";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -100,9 +101,9 @@
             // button5
             // 
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button5.Location = new System.Drawing.Point(30, 103);
+            this.button5.Location = new System.Drawing.Point(26, 89);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(121, 64);
+            this.button5.Size = new System.Drawing.Size(114, 60);
             this.button5.TabIndex = 5;
             this.button5.Text = "SHOW WIFI PROFILES";
             this.button5.UseVisualStyleBackColor = true;
@@ -111,27 +112,26 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(30, 85);
+            this.label1.Location = new System.Drawing.Point(26, 74);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(163, 15);
+            this.label1.Size = new System.Drawing.Size(146, 13);
             this.label1.TabIndex = 7;
             this.label1.Text = "(check all to use ipconfig /all)";
             // 
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 15;
-            this.listBox1.Location = new System.Drawing.Point(30, 284);
+            this.listBox1.Location = new System.Drawing.Point(26, 246);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(363, 169);
+            this.listBox1.Size = new System.Drawing.Size(312, 147);
             this.listBox1.TabIndex = 8;
             // 
             // button6
             // 
             this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button6.Location = new System.Drawing.Point(233, 131);
+            this.button6.Location = new System.Drawing.Point(200, 114);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(142, 40);
+            this.button6.Size = new System.Drawing.Size(122, 35);
             this.button6.TabIndex = 9;
             this.button6.Text = "DIR";
             this.button6.UseVisualStyleBackColor = true;
@@ -141,9 +141,9 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Enabled = false;
-            this.radioButton1.Location = new System.Drawing.Point(30, 188);
+            this.radioButton1.Location = new System.Drawing.Point(26, 163);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(95, 19);
+            this.radioButton1.Size = new System.Drawing.Size(96, 17);
             this.radioButton1.TabIndex = 10;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "DISPLAY DNS";
@@ -153,9 +153,9 @@
             // 
             this.radioButton2.AutoSize = true;
             this.radioButton2.Enabled = false;
-            this.radioButton2.Location = new System.Drawing.Point(30, 213);
+            this.radioButton2.Location = new System.Drawing.Point(26, 185);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(43, 19);
+            this.radioButton2.Size = new System.Drawing.Size(44, 17);
             this.radioButton2.TabIndex = 11;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "DIR";
@@ -165,20 +165,20 @@
             // 
             this.radioButton3.AutoSize = true;
             this.radioButton3.Enabled = false;
-            this.radioButton3.Location = new System.Drawing.Point(30, 238);
+            this.radioButton3.Location = new System.Drawing.Point(26, 206);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(113, 19);
+            this.radioButton3.Size = new System.Drawing.Size(140, 17);
             this.radioButton3.TabIndex = 12;
             this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "SHOW PROFILES";
+            this.radioButton3.Text = "SHOW WIFI PROFILES";
             this.radioButton3.UseVisualStyleBackColor = true;
             // 
             // button7
             // 
             this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button7.Location = new System.Drawing.Point(233, 193);
+            this.button7.Location = new System.Drawing.Point(200, 167);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(121, 64);
+            this.button7.Size = new System.Drawing.Size(111, 56);
             this.button7.TabIndex = 13;
             this.button7.Text = "GET DATA";
             this.button7.UseVisualStyleBackColor = true;
@@ -186,9 +186,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(608, 465);
+            this.ClientSize = new System.Drawing.Size(521, 403);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.radioButton3);
             this.Controls.Add(this.radioButton2);
@@ -202,9 +202,11 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
-            this.Text = "SecurityPanel by Brosz996";
+            this.Text = "ITPanel by Brosz996";
             this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
             this.ResumeLayout(false);
             this.PerformLayout();
