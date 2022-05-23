@@ -42,6 +42,7 @@
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton3 = new System.Windows.Forms.RadioButton();
             this.button7 = new System.Windows.Forms.Button();
+            this.radioButton4 = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // button1
@@ -141,7 +142,7 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.Enabled = false;
-            this.radioButton1.Location = new System.Drawing.Point(26, 163);
+            this.radioButton1.Location = new System.Drawing.Point(26, 155);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(96, 17);
             this.radioButton1.TabIndex = 10;
@@ -153,7 +154,7 @@
             // 
             this.radioButton2.AutoSize = true;
             this.radioButton2.Enabled = false;
-            this.radioButton2.Location = new System.Drawing.Point(26, 185);
+            this.radioButton2.Location = new System.Drawing.Point(26, 178);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(44, 17);
             this.radioButton2.TabIndex = 11;
@@ -165,7 +166,7 @@
             // 
             this.radioButton3.AutoSize = true;
             this.radioButton3.Enabled = false;
-            this.radioButton3.Location = new System.Drawing.Point(26, 206);
+            this.radioButton3.Location = new System.Drawing.Point(26, 201);
             this.radioButton3.Name = "radioButton3";
             this.radioButton3.Size = new System.Drawing.Size(140, 17);
             this.radioButton3.TabIndex = 12;
@@ -184,11 +185,24 @@
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
+            // radioButton4
+            // 
+            this.radioButton4.AutoSize = true;
+            this.radioButton4.Enabled = false;
+            this.radioButton4.Location = new System.Drawing.Point(26, 223);
+            this.radioButton4.Name = "radioButton4";
+            this.radioButton4.Size = new System.Drawing.Size(75, 17);
+            this.radioButton4.TabIndex = 14;
+            this.radioButton4.TabStop = true;
+            this.radioButton4.Text = "IPCONFIG";
+            this.radioButton4.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(521, 403);
+            this.Controls.Add(this.radioButton4);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.radioButton3);
             this.Controls.Add(this.radioButton2);
@@ -228,5 +242,6 @@
         private RadioButton radioButton2;
         private RadioButton radioButton3;
         private Button button7;
+        private RadioButton radioButton4;
     }
 }

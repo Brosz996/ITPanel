@@ -20,11 +20,16 @@ namespace ITPanel
         {
             if (checkBox1.Checked == true)
             {
-                System.Diagnostics.Process.Start("CMD.exe", "/K ipconfig /all");
+                System.Diagnostics.Process.Start("CMD.exe", "/C ipconfig /all > ip.txt");
+                button1.Enabled = false;
+                radioButton4.Enabled = true;
+
             }
             else if (checkBox1.Checked == false)
             {
-                System.Diagnostics.Process.Start("CMD.exe", "/K ipconfig");
+                System.Diagnostics.Process.Start("CMD.exe", "/C ipconfig > ip.txt");
+                button1.Enabled = false;
+                radioButton4.Enabled = true;
             }
         }
 
@@ -91,6 +96,15 @@ namespace ITPanel
                 button5.Enabled = true;
                 radioButton3.Enabled = false;
             }
+            if (radioButton4.Checked == true)
+            {
+                megnyitas("ip.txt");
+                System.Diagnostics.Process.Start("CMD.exe", "/C del ip.txt");
+                button1.Enabled = true;
+                radioButton4.Enabled = false;
+            }
         }
+
+        
     }
 }
