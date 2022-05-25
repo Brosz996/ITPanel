@@ -43,6 +43,7 @@
             this.radioButton3 = new System.Windows.Forms.RadioButton();
             this.button7 = new System.Windows.Forms.Button();
             this.radioButton4 = new System.Windows.Forms.RadioButton();
+            this.button8 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -70,7 +71,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button3.Location = new System.Drawing.Point(380, 340);
+            this.button3.Location = new System.Drawing.Point(380, 377);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(131, 53);
             this.button3.TabIndex = 2;
@@ -121,10 +122,12 @@
             // 
             // listBox1
             // 
+            this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 20;
             this.listBox1.Location = new System.Drawing.Point(26, 246);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(312, 147);
+            this.listBox1.Size = new System.Drawing.Size(348, 184);
             this.listBox1.TabIndex = 8;
             // 
             // button6
@@ -197,11 +200,23 @@
             this.radioButton4.Text = "IPCONFIG";
             this.radioButton4.UseVisualStyleBackColor = true;
             // 
+            // button8
+            // 
+            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button8.Location = new System.Drawing.Point(355, 36);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(111, 113);
+            this.button8.TabIndex = 15;
+            this.button8.Text = "WHAT IS MY PUBLIC IP?";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(521, 403);
+            this.ClientSize = new System.Drawing.Size(521, 443);
+            this.Controls.Add(this.button8);
             this.Controls.Add(this.radioButton4);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.radioButton3);
@@ -243,5 +258,6 @@
         private RadioButton radioButton3;
         private Button button7;
         private RadioButton radioButton4;
+        private Button button8;
     }
 }
