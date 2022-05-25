@@ -1,0 +1,141 @@
+
+Windows IP Configuration
+
+    200.137.168.192.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 200.137.168.192.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 602508
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : HUAWEI_P20_lite-27d2a213c.mshome.net
+
+
+    edge.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : edge.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 102
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : edge-microsoft-com.a-0016.a-msedge.net
+
+
+    Record Name . . . . . : edge-microsoft-com.a-0016.a-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 102
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : a-0016.a-msedge.net
+
+
+    Record Name . . . . . : a-0016.a-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 102
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 204.79.197.219
+
+
+    1.137.168.192.in-addr.arpa
+    ----------------------------------------
+    Record Name . . . . . : 1.137.168.192.in-addr.arpa.
+    Record Type . . . . . : 12
+    Time To Live  . . . . : 602508
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    PTR Record  . . . . . : DESKTOP-A88LSL9.mshome.net
+
+
+    desktop-a88lsl9.mshome.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    desktop-a88lsl9.mshome.net
+    ----------------------------------------
+    Record Name . . . . . : DESKTOP-A88LSL9.mshome.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 602508
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.168.137.1
+
+
+    huawei_p20_lite-27d2a213c.mshome.net
+    ----------------------------------------
+    No records of type AAAA
+
+
+    huawei_p20_lite-27d2a213c.mshome.net
+    ----------------------------------------
+    Record Name . . . . . : HUAWEI_P20_lite-27d2a213c.mshome.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 602508
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.168.137.200
+
+
+    icanhazip.com
+    ----------------------------------------
+    Record Name . . . . . : icanhazip.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 506
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6812:7361
+
+
+    Record Name . . . . . : icanhazip.com
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 506
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:4700::6812:7261
+
+
+    icanhazip.com
+    ----------------------------------------
+    Record Name . . . . . : icanhazip.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 479
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.18.114.97
+
+
+    Record Name . . . . . : icanhazip.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 479
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 104.18.115.97
+
+
+    nav.smartscreen.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : nav.smartscreen.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 108
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wd-prod-ss.trafficmanager.net
+
+
+    Record Name . . . . . : wd-prod-ss.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 108
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wd-prod-ss-eu-north-2-fe.northeurope.cloudapp.azure.com
+
+
+    Record Name . . . . . : wd-prod-ss-eu-north-2-fe.northeurope.cloudapp.azure.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 108
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.82.250.189
+
+

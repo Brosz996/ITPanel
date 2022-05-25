@@ -1,11 +1,14 @@
+using System.Net;
+
 namespace ITPanel
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
+        string publicIP = new WebClient().DownloadString("http://icanhazip.com");
         public void megnyitas(string fajlnev)
         {
             StreamReader sr = new StreamReader(fajlnev);
@@ -32,7 +35,6 @@ namespace ITPanel
                 radioButton4.Enabled = true;
             }
         }
-
         private void button3_Click(object sender, EventArgs e)
         {
             System.Environment.Exit(0);
@@ -72,9 +74,12 @@ namespace ITPanel
             button6.Enabled = false;
             radioButton2.Enabled = true;
         }
-
         private void button7_Click(object sender, EventArgs e)
         {
+            if (radioButton1.Enabled == false && radioButton2.Enabled == false && radioButton3.Enabled == false && radioButton4.Enabled == false)
+            {
+                button7.Enabled = false;
+            }
             if (radioButton1.Checked == true)
             {
                 megnyitas("dd.txt");
@@ -105,6 +110,11 @@ namespace ITPanel
             }
         }
 
-        
+        private void button8_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+            listBox1.Items.Add("MY IP is:");
+            listBox1.Items.Add(publicIP);
+        }
     }
 }
