@@ -6,6 +6,7 @@ namespace ITPanel
     {
         public Form1()
         {
+            this.BackColor = Color.FromArgb(135, 206, 235);
             InitializeComponent(); 
         }
         string publicIP = new WebClient().DownloadString("http://icanhazip.com");
