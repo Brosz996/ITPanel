@@ -21,6 +21,14 @@ namespace ITPanel
             }
             sr.Close();
         }
+        private void listBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Control == true && e.KeyCode == Keys.C)
+            {
+                string s = listBox1.SelectedItem.ToString();
+                Clipboard.SetData(DataFormats.StringFormat, s);
+            }
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             if (checkBox1.Checked == true)
@@ -119,5 +127,6 @@ namespace ITPanel
             listBox1.Items.Add("MY IP is:");
             listBox1.Items.Add(publicIP);
         }
+        
     }
 }
