@@ -71,7 +71,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button3.Location = new System.Drawing.Point(380, 377);
+            this.button3.Location = new System.Drawing.Point(472, 378);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(131, 53);
             this.button3.TabIndex = 2;
@@ -124,10 +124,11 @@
             // 
             this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.listBox1.FormattingEnabled = true;
+            this.listBox1.HorizontalScrollbar = true;
             this.listBox1.ItemHeight = 20;
             this.listBox1.Location = new System.Drawing.Point(26, 246);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(348, 184);
+            this.listBox1.Size = new System.Drawing.Size(440, 184);
             this.listBox1.TabIndex = 8;
             // 
             // button6
@@ -215,7 +216,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(521, 443);
+            this.ClientSize = new System.Drawing.Size(609, 443);
             this.Controls.Add(this.button8);
             this.Controls.Add(this.radioButton4);
             this.Controls.Add(this.button7);

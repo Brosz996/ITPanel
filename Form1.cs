@@ -78,16 +78,14 @@ namespace ITPanel
         }
         private void button7_Click(object sender, EventArgs e)
         {
-            if (radioButton1.Enabled == false && radioButton2.Enabled == false && radioButton3.Enabled == false && radioButton4.Enabled == false)
-            {
-                button7.Enabled = false;
-            }
+            
             if (radioButton1.Checked == true)
             {
                 megnyitas("dd.txt");
                 System.Diagnostics.Process.Start("CMD.exe", "/C del dd.txt");
                 button2.Enabled = true;
                 radioButton1.Enabled = false;
+                radioButton1.Checked = false;
             }
             if (radioButton2.Checked == true)
             {
@@ -95,6 +93,7 @@ namespace ITPanel
                 System.Diagnostics.Process.Start("CMD.exe", "/C del dir.txt");
                 button6.Enabled = true;
                 radioButton2.Enabled = false;
+                radioButton2.Checked = false;
             }
             if (radioButton3.Checked == true)
             {
@@ -102,6 +101,7 @@ namespace ITPanel
                 System.Diagnostics.Process.Start("CMD.exe", "/C del sp.txt");
                 button5.Enabled = true;
                 radioButton3.Enabled = false;
+                radioButton3.Checked = false;
             }
             if (radioButton4.Checked == true)
             {
@@ -109,6 +109,7 @@ namespace ITPanel
                 System.Diagnostics.Process.Start("CMD.exe", "/C del ip.txt");
                 button1.Enabled = true;
                 radioButton4.Enabled = false;
+                radioButton4.Checked = false;
             }
         }
 
