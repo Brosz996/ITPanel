@@ -7,8 +7,7 @@ namespace ITPanel
         public Form1()
         {
             this.BackColor = Color.FromArgb(135, 206, 235);
-            InitializeComponent(); 
-
+            InitializeComponent();
         }
         string publicIP = new WebClient().DownloadString("http://icanhazip.com");
         public void megnyitas(string fajlnev)
@@ -20,6 +19,14 @@ namespace ITPanel
                 listBox1.Items.Add(sr.ReadLine());
             }
             sr.Close();
+        }
+        private void button3_MouseEnter(object sender, EventArgs e)
+        {
+            button3.BackColor = Color.FromArgb(255, 0, 0);
+        }
+        private void button3_MouseLeave(object sender, EventArgs e)
+        {
+            button3.BackColor = Color.White;
         }
         private void listBox1_KeyDown(object sender, KeyEventArgs e)
         {
@@ -128,5 +135,6 @@ namespace ITPanel
             listBox1.Items.Add(publicIP);
         }
         
+
     }
 }
